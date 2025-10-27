@@ -1,0 +1,24 @@
+{
+  "title": "ABOUT THIS GUIDE",
+  "intro": "Welcome to your comprehensive travel companion. We're dedicated to helping travelers discover authentic experiences—from iconic landmarks to hidden gems known only to locals. Our mission is to transform your journey into an unforgettable experience filled with cultural immersion, culinary delights, and meaningful connections.",
+  "team": [
+    {
+      "name": "Sofia Martinez",
+      "role": "Content Director",
+      "country": "Spain",
+      "bio": "Curates all destination content and cultural insights, ensuring authentic and up-to-date travel information."
+    },
+    {
+      "name": "Marco Bianchi",
+      "role": "Local Expert",
+      "country": "Italy",
+      "bio": "Provides insider knowledge on hidden gems and local customs across Europe's most beloved destinations."
+    },
+    {
+      "name": "Elena Kowalski",
+      "role": "Travel Photographer",
+      "country": "Poland",
+      "bio": "Captures the visual essence of destinations while maintaining consistent aesthetic standards."
+    }
+  ]
+}
