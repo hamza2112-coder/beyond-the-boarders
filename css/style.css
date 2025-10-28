@@ -630,12 +630,17 @@ img {
         background: var(--light-sage);
         width: 100%;
         text-align: center;
+<<<<<<< HEAD
         /* Dropdown container */
 .nav-item.dropdown {
   position: relative;
 }
 
 /* Dropdown toggle button */
+=======
+    }  }
+    /* Dropdown toggle button */
+>>>>>>> ac5e600d90f953772e5b45033437928b33b160c9
 .dropdown-toggle {
   background: none;
   border: none;
